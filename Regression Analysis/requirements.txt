@@ -1,0 +1,7 @@
+numpy == 1.16.4 or later
+pydantic == 0.30 or later
+uvicorn == 0.8.6 or later
+fastapi == 0.35.0 or later
+pandas == 2.4.0 or later
+sklearn == 1.2.0 or later
+matlibplot == 3.4.0 or later
