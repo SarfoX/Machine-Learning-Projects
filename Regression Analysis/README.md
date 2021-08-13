@@ -1,7 +1,7 @@
-# Deploying your Machine Learning Model   
+# Deploying the Linear Regression Model   
 
 This repository contains code and instructions on how to deploy the
-machine learning model using a production-ready API.
+regression model using a production-ready API.
 
 I am using FastAPI + Uvicorn to serve the model which creates automatic
 documentation using OpenAPI (Swagger) and ReDoc.
